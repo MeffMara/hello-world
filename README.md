@@ -1,2 +1,4 @@
 # hello-world
-my firss repositary
+Hello !
+i like python , and i want study for GitHub.
+
